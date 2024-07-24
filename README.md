@@ -31,3 +31,5 @@ pip install -r requirements.txt
 Custom Chatbot: `streamlit run SimpleChat.py`
 RAG Chatbot: `streamlit run Rag.py`
 ```
+
+### Note: Create API TOKEn from hugging face and add it in .env file with key HUGGINGFACEHUB_API_TOKEN
